@@ -21,9 +21,13 @@
 </p>
 
 <p align="center">
-    <strong>2. SESSION ID & DEPLOYMENTS</strong>
+    <strong>2. SESSION ID </strong>
     <br>
     <a href="https://peace-merchant.onrender.com" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
+
+<h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
+<p align="left">
+<a href='[https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/PEACE-XMD](https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/PEACE-XMD)' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white
