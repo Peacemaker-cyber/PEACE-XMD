@@ -13,12 +13,11 @@
 <p/>
 
 <p align="center">
-    <strong>1. FORK REPOSITORY</strong>
+    <strong>1. DEPLOY HEROKU</strong>
   <br>
-    <a href="https://github.com/Peacemaker-cyber/PEACE-XMD/fork" target="_blank">
-        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
-    </a>
-</p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/PEACE-XMD/new/main">
+    <img title="DEPLOY PEACE XMD BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
 
 <p align="center">
     <strong>2. SESSION ID </strong>
@@ -26,8 +25,4 @@
     <a href="https://peace-merchant.onrender.com" target="_blank">
         <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
-</p>
 
-<h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
-<p align="left">
-<a href='[https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/PEACE-XMD]' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white
